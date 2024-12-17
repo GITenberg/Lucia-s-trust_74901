@@ -1,0 +1,24 @@
+_repo: Lucia-s-trust_74901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74901'
+language: en
+pgterms:marc905: 20241115145717shaw
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw and Co., Ltd., $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lucia's trust
+url: http://www.gutenberg.org/ebooks/74901
